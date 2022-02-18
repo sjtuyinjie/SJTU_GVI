@@ -27,6 +27,6 @@ Seq5|2021-12-23|1.26G|159s|[Rosbag](https://pan.baidu.com/s/1vlE16qNDnV4C2i-cfg6
 ## 2.Calibration
 The camera intrinsic and cam-imu extrinsics calibration results is given in [Link](https://github.com/sjtuyinjie/SJTU_GVI/tree/main/calibrations)
 ## 3.Ground Truth
-The ground truth of the datasets is given in [Link](https://github.com/sjtuyinjie/SJTU_GVI/tree/main/c)
+The ground truth of the datasets is given in [Link](https://github.com/sjtuyinjie/SJTU_GVI/tree/main/data)
 ## 4.ACKNOWLEGEMENT
 Authors express our appreciation for the support of Shanghai West Hongqiao Navigation Technology Co., LTD.
