@@ -1,0 +1,13 @@
+%YAML:1.0
+---
+
+Camera model: pinhole
+
+Image width: 640
+Image height: 480
+
+Focal length: [941.012161218307, 938.194870227585]
+Principal point: [636.816098847571, 357.728952908842]
+
+Distortion model: radtan
+Distortion coefficients: [0.165049318972363, -0.281973486275739, 0.0, 0.0]
