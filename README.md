@@ -19,11 +19,11 @@ extraction code is "yj66"
 
 Sequence|Collection Date|Total Size|Duration|Features|Rosbag
 --|:--|:--:|--:|--:|--:
-Seq1|2021-08-03|23.3g|234s|Circle|[Rosbag](https://pan.baidu.com/s/1qoFsvOUyJCf7xi6KHBBoCQ)
-Seq2|2021-08-03|23.3g|234s|Circle|[Rosbag](https://pan.baidu.com/s/15usabuNPmlmC_S4cQsGIYg)
-Seq3|2021-08-03|23.3g|234s|Circle|[Rosbag](https://pan.baidu.com/s/1AfoDweqbo89PDl6ef0mYZA)
-Seq4|2021-08-03|23.3g|234s|Circle|[Rosbag](https://pan.baidu.com/s/1uc6RLjXhjs15g7Czg_JTDA)
-Seq5|2021-08-03|23.3g|234s|Circle|[Rosbag](https://pan.baidu.com/s/1vlE16qNDnV4C2i-cfg6NVQ)
+Seq1|2021-08-03|2.37G|234s|Circle|[Rosbag](https://pan.baidu.com/s/1qoFsvOUyJCf7xi6KHBBoCQ)
+Seq2|2021-08-03|921M|234s|Circle|[Rosbag](https://pan.baidu.com/s/15usabuNPmlmC_S4cQsGIYg)
+Seq3|2021-08-03|1.19G|234s|Circle|[Rosbag](https://pan.baidu.com/s/1AfoDweqbo89PDl6ef0mYZA)
+Seq4|2021-08-03|850M|234s|Circle|[Rosbag](https://pan.baidu.com/s/1uc6RLjXhjs15g7Czg_JTDA)
+Seq5|2021-08-03|1.26G|234s|Circle|[Rosbag](https://pan.baidu.com/s/1vlE16qNDnV4C2i-cfg6NVQ)
 ## 2.Calibration
 
 ## 3.Ground Truth
