@@ -14,9 +14,16 @@ Different from M2DGR, this dataset has following features:
 Please give us a star if this project is helpful to your research. Thank you!
 
 ## 1.Sequence 
-Here is the link [SJTU_GVI](TBD)
+extraction code is "yj66"
 
 
+Sequence|Collection Date|Total Size|Duration|Features|Rosbag
+--|:--|:--:|--:|--:|--:
+Seq1|2021-08-03|23.3g|234s|Circle|[Rosbag](https://pan.baidu.com/s/1qoFsvOUyJCf7xi6KHBBoCQ)
+Seq2|2021-08-03|23.3g|234s|Circle|[Rosbag](https://pan.baidu.com/s/15usabuNPmlmC_S4cQsGIYg)
+Seq3|2021-08-03|23.3g|234s|Circle|[Rosbag](https://pan.baidu.com/s/1AfoDweqbo89PDl6ef0mYZA)
+Seq4|2021-08-03|23.3g|234s|Circle|[Rosbag](https://pan.baidu.com/s/1uc6RLjXhjs15g7Czg_JTDA)
+Seq5|2021-08-03|23.3g|234s|Circle|[Rosbag](https://pan.baidu.com/s/1vlE16qNDnV4C2i-cfg6NVQ)
 ## 2.Calibration
 
 ## 3.Ground Truth
