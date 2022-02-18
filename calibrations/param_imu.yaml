@@ -1,0 +1,16 @@
+%YAML:1.0
+---
+
+type: imu
+name: d435i
+
+Update rate: 200.0
+
+Accelerometer:
+   Noise density: 0.0268487616106 
+   Noise density (discrete): 0.379698828027 
+   Random walk: 0.00085216274964
+Gyroscope:
+   Noise density: 0.00247107870753
+   Noise density (discrete): 0.0349463302188 
+   Random walk: 0.0000179631459052
