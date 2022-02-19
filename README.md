@@ -11,7 +11,22 @@ Different from M2DGR, this dataset has following features:
 
 3.GNSS raw measurements are captured by a Ublox ZED-F9P receiver, which facilitate the GNSS-SLAM research.
 
-Please give us a star if this project is helpful to your research. Thank you!
+Please give us a star if this project is helpful to your research. Thank you! If you use M2DGR in an academic work, please cite:
+
+~~~
+@ARTICLE{9664374,
+  author={Yin, Jie and Li, Ang and Li, Tao and Yu, Wenxian and Zou, Danping},
+  journal={IEEE Robotics and Automation Letters}, 
+  title={M2DGR: A Multi-sensor and Multi-scenario SLAM Dataset for Ground Robots}, 
+  year={2021},
+  volume={},
+  number={},
+  pages={1-1},
+  doi={10.1109/LRA.2021.3138527}}
+~~~
+
+
+
 
 ## 1.Sequence 
 extraction code is "yj66"
@@ -28,5 +43,8 @@ Seq5|2021-12-23|1.26G|159s|[Rosbag](https://pan.baidu.com/s/1vlE16qNDnV4C2i-cfg6
 The camera intrinsic and cam-imu extrinsics calibration results is given in [Link](https://github.com/sjtuyinjie/SJTU_GVI/tree/main/calibrations)
 ## 3.Ground Truth
 The ground truth of the datasets is given in [Link](https://github.com/sjtuyinjie/SJTU_GVI/tree/main/data)
+
+
+
 ## 4.ACKNOWLEGEMENT
 Authors express our appreciation for the support of Shanghai West Hongqiao Navigation Technology Co., LTD.
