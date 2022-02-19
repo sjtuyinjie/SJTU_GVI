@@ -29,7 +29,7 @@ Please give us a star if this project is helpful to your research. Thank you! If
 
 
 ## 1.Sequence 
-extraction code is "yj66"
+The extraction code is "yj66"
 
 
 Sequence|Collection Date|Total Size|Duration|Rosbag
