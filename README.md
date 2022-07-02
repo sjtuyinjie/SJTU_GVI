@@ -25,8 +25,20 @@ Please give us a star if this project is helpful to your research. Thank you! If
   doi={10.1109/LRA.2021.3138527}}
 ~~~
 
+<div align=center>
+
+<img src="https://github.com/sjtuyinjie/SJTU_GVI/blob/main/data/bigcar2.jpg" width="400px">
+</div>
+
+<p align="left">Figure 1. A picture of our acquisition platform.</p>
 
 
+
+<div align=center>
+
+<img src="https://github.com/sjtuyinjie/SJTU_GVI/blob/main/data/bdcalib.jpg" width="400px">
+</div>
+<p align="left">Figure 2. We were calibrating the extrinsics.</p>
 
 ## 1.Sequence 
 The extraction code is "yj66"
