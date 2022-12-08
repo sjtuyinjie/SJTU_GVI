@@ -1,7 +1,7 @@
 # SJTU_GVI
 A GNSS-Visual-IMU Dataset for SLAM
 
-Authors: Jie Yin
+Project Authors: Jie Yin
 
 Different from M2DGR, this dataset has following features:
 
