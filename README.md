@@ -3,6 +3,7 @@ A GNSS-Visual-IMU Dataset for SLAM
 
 Project Authors: Jie Yin
 
+This is part of the dataset for tests in paper [M2C-GVIO](https://satellite-navigation.springeropen.com/articles/10.1186/s43020-023-00102-9)
 Different from M2DGR, this dataset has following features:
 
 1.More light-weight and easy for downloading.
@@ -23,6 +24,17 @@ Please give us a star if this project is helpful to your research. Thank you! If
   number={},
   pages={1-1},
   doi={10.1109/LRA.2021.3138527}}
+
+@article{hua2023m2c,
+  title={M2C-GVIO: motion manifold constraint aided GNSS-visual-inertial odometry for ground vehicles},
+  author={Hua, Tong and Pei, Ling and Li, Tao and Yin, Jie and Liu, Guoqing and Yu, Wenxian},
+  journal={Satellite Navigation},
+  volume={4},
+  number={1},
+  pages={1--15},
+  year={2023},
+  publisher={SpringerOpen}
+}
 ~~~
 
 <div align=center>
