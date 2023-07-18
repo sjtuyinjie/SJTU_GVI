@@ -1,5 +1,5 @@
 # SJTU_GVI
-A GNSS-Visual-IMU Dataset for SLAM
+A GNSS-Visual-IMU benchmark Dataset for SLAM
 
 Project Authors: Jie Yin
 
