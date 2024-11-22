@@ -1,7 +1,13 @@
 # SJTU_GVI
 A GNSS-Visual-IMU benchmark Dataset for SLAM
 
-Project Authors: Jie Yin
+
+
+
+[![Author](https://img.shields.io/badge/Author-Jie%20Yin-blue)](https://sjtuyinjie.github.io/)
+[![Paper](https://img.shields.io/badge/Paper-M2CVIO-yellow)](https://link.springer.com/article/10.1186/s43020-023-00102-9)
+[![License](https://img.shields.io/badge/License-MIT-cyan)]()
+[![News](https://img.shields.io/badge/News-orange)](https://mp.weixin.qq.com/s/E2URbAKHCYq37XRpDd6cuQ)
 
 This is part of the dataset for tests in paper [M2C-GVIO](https://satellite-navigation.springeropen.com/articles/10.1186/s43020-023-00102-9)
 Different from M2DGR, this dataset has following features:
